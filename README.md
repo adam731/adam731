@@ -1,6 +1,6 @@
 - 👋 Hi, I’m adam
 - 👀 I’m interested in anything software related
-- 🌱 I’m currently learning java/javascript in my second year of software develpoment in college
+- 🌱 I’m currently learning java/javascript in my third year of software develpoment in college
 - 💞️ I’m looking to collaborate on internal software programs
 - 📫 How to reach me adam3417@gmail.com
 
